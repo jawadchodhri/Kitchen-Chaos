@@ -142,6 +142,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 00de15f05a4c7624e947715a2b51bf67, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  stoveCounter: {fileID: 5066741578971903407}
 --- !u!1001 &824169557595079443
 PrefabInstance:
   m_ObjectHideFlags: 0
